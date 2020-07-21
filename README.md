@@ -5,7 +5,7 @@ You can usually find me working on...
 * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Chrome UX Report](https://developers.google.com/web/tools/chrome-user-experience-report)
 
-These days I write mostly Go, Javascript, and C++; with many Python one-liners & a bit of Java in the past.
+These days I write mostly Go, Javascript, and C++; with many Python one-liners & a bit of Java in the past. I spend my free time playing Kane & Lynch 2.
 
 <!--
 **exterkamp/exterkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
