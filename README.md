@@ -1,5 +1,7 @@
 I'm an engineer at Google.
 
+I work on the [Fi frontend](https://fi.google.com/) nowadays.
+
 I used to hack on web performance a lot with projects like:
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
