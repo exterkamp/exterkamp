@@ -1,11 +1,6 @@
 I'm an engineer at Google Deepmind.
 
-I used to hack on web performance a lot with projects like:
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse)
-* [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [Chrome UX Report](https://developers.google.com/web/tools/chrome-user-experience-report)
-
-These days I write mostly Type/Javascript, golang, Java, with some Python & C++ in the past.
+I used to hack on web performance in Chrome. Now, I mainly play with small web projects.
 
 <!--
 **exterkamp/exterkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
